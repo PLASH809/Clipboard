@@ -379,7 +379,7 @@ text-align: center;
    
 
     header{
-        background-image: url(images/bg-header-desktop.png),linear-gradient( rgba(255,255,255,0), rgba(255,255,255,1));
+        background-image: url(images/bg-header-mobile.png),linear-gradient( rgba(255,255,255,0), rgba(255,255,255,1));
         background-repeat: no-repeat;
         background-size:cover;
         height: 150vh;
